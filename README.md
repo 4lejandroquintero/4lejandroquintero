@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Que Tal!, soy <a href="https://www.instagram.com/soyalejoquinteroa/">Alejandro Quintero Alzate</a> 👋</h1>
 </div>
-<img src="https://ibb.co/WVr5NZH"> 
+<img src="https://turbologo.com/designs/41491042"> 
 
 ## Sobre mi
 
