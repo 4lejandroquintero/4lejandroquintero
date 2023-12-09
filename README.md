@@ -7,7 +7,7 @@
 
 ## Sobre mi
 
-- 💻 Backend Developer With Java 💻 
+- 💻 Backend Developer With Java And MySql 💻 
 - 📲 Frontend developer With Angular 📲
 - ✏️ Enfocado en ser Full Stack Developer
 - 🌎 Cambiando el mundo, un commit a la vez. 💻 #CodeForChange
