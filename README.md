@@ -10,6 +10,10 @@
 - 💻 Backend Developer With Java 💻 
 - 📲 Frontend developer With Angular 📲
 - ✏️ Enfocado en ser Full Stack Developer
+- 🌎 Cambiando el mundo, un commit a la vez. 💻 #CodeForChange
+- 📝 Donde cada código cuenta una historia. 💻
+- 💪 La mejor manera de predecir el futuro es crearlo. ✨
+
 <br>
 
 <hr/>
