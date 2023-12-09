@@ -9,7 +9,7 @@
 
 - 💻 Backend Developer With Java 💻 
 - 📲 Frontend developer With Angular 📲
-- ✏️ Enfocado en ser Full Stack Development
+- ✏️ Enfocado en ser Full Stack Developer
 <br>
 
 <hr/>
