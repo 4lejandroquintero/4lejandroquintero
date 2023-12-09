@@ -27,18 +27,7 @@
 
 
 ## Proyectos *bombitas*
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Proyecto Spring Security</h3>
-<div align="center">
-<a href="https://github.com/4lejandroquintero/deval-pizzeria" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Proyecto Security Spring Boot"></a>
-</div>                                                                                      
-</td>
 
-<hr/>
 
 # 📊 Estadísticas GitHub:
-![](https://github-readme-stats.vercel.app/api?username=CarlosGomez-99&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosGomez-99&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGomez-99&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
