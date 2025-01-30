@@ -24,7 +24,7 @@
 <hr/>
 
 # 💻 Tecnologías:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.5.0-green.svg)](https://spring.io/projects/spring-boot) [![Angular](https://img.shields.io/badge/Angular-12-red.svg)](https://angular.io/)
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.5.0-green.svg)](https://spring.io/projects/spring-boot) [![Angular](https://img.shields.io/badge/Angular-12-red.svg)](https://angular.io/)
 
 <hr/>
 
