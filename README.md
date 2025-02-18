@@ -8,8 +8,7 @@
 ## Sobre mi
 
 - 💻 Backend Developer With Java And MySql 💻 
-- 📲 Frontend developer With Angular 📲
-- ✏️ Enfocado en ser Full Stack Developer
+- ![image](https://github.com/user-attachments/assets/baf21cad-9f05-499d-adee-2e8940f3afaf) Spring Boot y Microservicios ![image](https://github.com/user-attachments/assets/baf21cad-9f05-499d-adee-2e8940f3afaf)
 - 🌎 Cambiando el mundo, un commit a la vez. 💻 #CodeForChange
 - 📝 Donde cada código cuenta una historia. 💻
 - 💪 La mejor manera de predecir el futuro es crearlo. ✨
