@@ -1,13 +1,13 @@
-[java-badge-lg]: https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge
-[java-web]: https://www.java.com/
-[![java-badge-lg]][java-web]
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<div align="center">
-<h1 align="center">Que Tal!, soy <a href="https://www.instagram.com/soyalejoquinteroa/">Alejandro Quintero Alzate</a> 👋</h1>
-</div>
-<img src="https://turbologo.com/designs/41491042"> 
+<!-- <br>
+<br>
+<br> -->
+<h1 align="center">Que tal! 👋 Yo soy Alejandro Quintero Alzate</strong> ✨ </h1>
 
-<h/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejandro-quintero-alzate-3079451a6/"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Biendenido+a+MiPortafolio;Haciendolo+Un++Commit+A+La+Vez" /></a>
+</p>
 
 ## Sobre mi
 
