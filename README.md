@@ -36,20 +36,21 @@
 <h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
-  <h2>:star2: Front End</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,react,angular,npm,netlify,vite,regex&perline=6" />
-  </a>
+ <h2>:star2: Front End</h2>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,react,angular,npm&perline=6" />
+</a>
+<p>🧩 Thymeleaf</p>
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,aws,idea,eclipse,maven,mysql,postgres,dynamodb,firebase,sqlite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,aws,idea,eclipse,maven,mysql,postgres,firebase,sqlite&perline=6" />
   </a>
 
   <h2>:hammer: Devops</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,terraform&perline=12" />
-  </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=jenkins,docker&perline=12" />
+</a>
 
   <h2>:wrench: Tools</h2>
   <a href="https://skillicons.dev">
@@ -84,7 +85,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/4lejandroquintero" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unprogramadornaceofficial&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=4lejandroquintero&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
