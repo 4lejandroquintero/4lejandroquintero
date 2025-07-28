@@ -38,18 +38,15 @@
 <p align="center">
  <h2>:star2: Front End</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,react,angular,npm,thymeleaf&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,react,angular,npm&perline=6" />
 </a>
+<br />
+<img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="60" />
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,aws,idea,eclipse,maven,mysql,postgres,firebase,sqlite&perline=6" />
   </a>
-
-  <h2>:hammer: Devops</h2>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=jenkins,docker&perline=12" />
-</a>
 
   <h2>:wrench: Tools</h2>
   <a href="https://skillicons.dev">
