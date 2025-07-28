@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+[java-badge-lg]: https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge
 
 <div align="center">
 <h1 align="center">Que Tal!, soy <a href="https://www.instagram.com/soyalejoquinteroa/">Alejandro Quintero Alzate</a> 👋</h1>
