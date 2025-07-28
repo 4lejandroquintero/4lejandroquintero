@@ -38,9 +38,8 @@
 <p align="center">
  <h2>:star2: Front End</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,react,angular,npm&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,react,angular,npm,thymeleaf&perline=6" />
 </a>
-<p>🧩 Thymeleaf</p>
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
