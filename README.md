@@ -2,10 +2,6 @@
 
 <!-- <br>
 <br>
-<div align="center">
-    <a href="https://youtube.com/@unprogramadornace" target="_blank"><img align="center" src="./Assets/Circle.png" alt="@unprogramadornace" width="250px"/></a>
-</div>
-<br>
 <br> -->
 <h1 align="center">Que tal! 👋 Yo soy Alejandro Quintero Alzate</strong> ✨ </h1>
 
@@ -13,34 +9,91 @@
   <a href="https://www.linkedin.com/in/alejandro-quintero-alzate-3079451a6/"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Biendenido+a+MiPortafolio;Haciendolo+Un++Commit+A+La+Vez" /></a>
 </p>
 
-## Sobre mi
+<p align="center">
+    <a href="https://www.linkedin.com/in/alejandro-quintero-alzate-3079451a6/"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@alejandroquintero"/></a>
+    <a href="https://www.facebook.com/alejo.quinteroalzate"  target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@alejandroquintero" /></a>
+    <a href = "mailto:alejoq96@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alejandroquintero" /></a>
+  </p>
+<br>
+<h2 align="center">Sobre mi 😎🤏</h2>
+<!--Intro start-->
 
-- 💻 Backend Developer With Java And MySql 💻 
-- ![image](https://github.com/user-attachments/assets/7d21cc64-761e-4a7d-9be5-5bb5eac6e371)
- Spring Boot y Microservicios ![image](https://github.com/user-attachments/assets/4500f7f7-8328-4e83-b31f-782ed8a96f0b)
+<p align="left">
+🎓 ESTUDIANTE DE INGENIERIA DE SISTEMAS
 
-- 🌎 Cambiando el mundo, un commit a la vez. 💻 #CodeForChange
-- 📝 Donde cada código cuenta una historia. 💻
-- 💪 La mejor manera de predecir el futuro es crearlo. ✨
+📝 Desarrollador de software muy proactivo.
 
+💻 Tengo unos años de experiencia trabajando con JAVA | SPRING BOOT | TYPESCRIPT
+
+🌎 Cambiando el mundo, un commit a la vez. 💻 #CodeForChange
+
+📫 Contacto: **alejoq96@gmail.com**
+
+<!--Intro end-->
+  </p>
 <br>
 
-<hr/>
+<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="center">
+  <h2>:star2: Front End</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,react,angular,npm,netlify,vite,regex&perline=6" />
+  </a>
 
-## 🌐 Redes Sociales:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/alejo.quinteroalzate) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/soyalejoquinteroa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-quintero-3079451a6/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me)
+  <h2>:zap: Back End</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,aws,idea,eclipse,maven,mysql,postgres,dynamodb,firebase,sqlite&perline=6" />
+  </a>
 
-<hr/>
+  <h2>:hammer: Devops</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jenkins,terraform&perline=12" />
+  </a>
 
-# 💻 Tecnologías:
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.5.0-green.svg)](https://spring.io/projects/spring-boot) [![Angular](https://img.shields.io/badge/Angular-12-red.svg)](https://angular.io/)
+  <h2>:wrench: Tools</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,gitlab,github,ubuntu&perline=6" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+<div id="proyectos">
+<br>
 
-<hr/>
+<!------------------------->
+
+<br/><br/>
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="60%" align="center">
+
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=4lejandroquintero&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=4lejandroquintero&theme=dark&hide_border=false" /> 
+</td>
+
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/4lejandroquintero" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unprogramadornaceofficial&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+</p>       
+<br/>
+<br/>
+<br/>
+<br/>
 
 
-
-## Proyectos *bombitas*
-
-
-# 📊 Estadísticas GitHub:
 
