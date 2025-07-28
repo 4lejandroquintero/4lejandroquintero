@@ -1,4 +1,6 @@
 [java-badge-lg]: https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge
+[java-web]: https://www.java.com/
+[![java-badge-lg]][java-web]
 
 <div align="center">
 <h1 align="center">Que Tal!, soy <a href="https://www.instagram.com/soyalejoquinteroa/">Alejandro Quintero Alzate</a> 👋</h1>
