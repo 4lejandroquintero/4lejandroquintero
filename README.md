@@ -2,6 +2,10 @@
 
 <!-- <br>
 <br>
+<div align="center">
+    <a href="https://youtube.com/@unprogramadornace" target="_blank"><img align="center" src="./Assets/Circle.png" alt="@unprogramadornace" width="250px"/></a>
+</div>
+<br>
 <br> -->
 <h1 align="center">Que tal! 👋 Yo soy Alejandro Quintero Alzate</strong> ✨ </h1>
 
