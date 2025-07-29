@@ -6,7 +6,7 @@
 <h1 align="center">Que tal! 👋 Yo soy Alejandro Quintero Alzate</strong> ✨ </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-quintero-alzate-3079451a6/"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Biendenido+a+MiPortafolio;Haciendolo+Un++Commit+A+La+Vez" /></a>
+  <a href="https://www.linkedin.com/in/alejandro-quintero-alzate-3079451a6/"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenidos+a+Mi+Portafolio;Haciendolo+Un++Commit+A+La+Vez" /></a>
 </p>
 
 <p align="center">
