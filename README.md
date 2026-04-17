@@ -60,13 +60,17 @@
 <h3 align="center">⚡ Backend & Cloud</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,azure,docker,mysql,postgres&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,go,aws,azure,docker,mysql,postgres&perline=5" />
 </p>
 
-<h3 align="center">🧩 Frontend</h3>
+<h3 align="center">🤖 AI & Integrations</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python&perline=5" />
+</p>
+
+<p align="center">
+  OpenAI API · Prompt Engineering · AI-assisted Development
 </p>
 
 <h3 align="center">🧰 Tools & DevOps</h3>
