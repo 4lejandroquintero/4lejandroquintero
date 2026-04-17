@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  OpenAI API · Prompt Engineering · AI-assisted Development
+  OpenAI API · Prompt Engineering · AI Integration · Automation
 </p>
 
 <h3 align="center">🧰 Tools & DevOps</h3>
@@ -96,7 +96,7 @@ Sistema de gestión de inventarios desarrollado con arquitectura full stack, enf
 
 💡 Implementé autenticación con JWT y optimización de consultas SQL para mejorar el rendimiento.
 
-🔗 https://github.com/tu-repo-aqui
+🔗 Próximamente (en desarrollo)
 
 ---
 
@@ -111,7 +111,7 @@ Diseño y desarrollo de una arquitectura basada en microservicios utilizando Jav
 
 💡 Enfoque en desacoplamiento, escalabilidad y mantenibilidad del sistema.
 
-🔗 https://github.com/tu-repo-aqui
+🔗 Próximamente (en desarrollo)
 
 ---
 
@@ -125,20 +125,22 @@ Integración de inteligencia artificial en procesos backend para automatización
 
 💡 Exploración de cómo la IA puede potenciar sistemas backend modernos.
 
-🔗 https://github.com/tu-repo-aqui
+🔗 Próximamente (en desarrollo)
 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4lejandroquintero&theme=dark&show_icons=true&count_private=true" />
-</p>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=4lejandroquintero&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
 
-<h2 align="center">🏆 Logros</h2>
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=4lejandroquintero&theme=radical&row=1&column=7&no-bg=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lejandroquintero&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=4lejandroquintero&theme=tokyonight&row=1&column=6&no-bg=true&no-frame=true" />
+
 </p>
