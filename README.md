@@ -83,12 +83,49 @@
 
 <h2 align="center">🔥 Proyectos Destacados</h2>
 
-<p align="center">
-🚧 Aquí irán algunos de mis proyectos más relevantes  
-📌 APIs con Spring Boot  
-📌 Sistemas de gestión con arquitectura limpia  
-📌 Integraciones con IA  
-</p>
+---
+
+### 🚀 Inventory Management System (Full Stack)
+
+Sistema de gestión de inventarios desarrollado con arquitectura full stack, enfocado en rendimiento y escalabilidad.
+
+🔹 Backend con Java & Spring Boot  
+🔹 Frontend con Angular  
+🔹 Base de datos MySQL  
+🔹 APIs RESTful bien estructuradas  
+
+💡 Implementé autenticación con JWT y optimización de consultas SQL para mejorar el rendimiento.
+
+🔗 https://github.com/tu-repo-aqui
+
+---
+
+### ⚡ Backend API - Microservices Architecture
+
+Diseño y desarrollo de una arquitectura basada en microservicios utilizando Java y Spring Boot.
+
+🔹 Arquitectura hexagonal  
+🔹 Comunicación entre servicios  
+🔹 Docker para contenerización  
+🔹 Preparado para despliegue en cloud  
+
+💡 Enfoque en desacoplamiento, escalabilidad y mantenibilidad del sistema.
+
+🔗 https://github.com/tu-repo-aqui
+
+---
+
+### 🤖 AI Integration - Backend Automation
+
+Integración de inteligencia artificial en procesos backend para automatización y mejora de eficiencia.
+
+🔹 Uso de APIs de IA (OpenAI)  
+🔹 Automatización de tareas backend  
+🔹 Procesamiento de datos con Python  
+
+💡 Exploración de cómo la IA puede potenciar sistemas backend modernos.
+
+🔗 https://github.com/tu-repo-aqui
 
 ---
 
