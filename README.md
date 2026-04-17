@@ -1,96 +1,103 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<!-- <br>
-<br>
-<br> -->
-<h1 align="center">Que tal! 👋 Yo soy Alejandro Quintero Alzate</strong> ✨ </h1>
+<h1 align="center">👋 Soy Alejandro Quintero Alzate</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-quintero-alzate-3079451a6/"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenidos+a+Mi+Portafolio;Haciendolo+Un++Commit+A+La+Vez" /></a>
+  <strong>Backend Developer | Java & Spring Boot | Microservices | Cloud (AWS & Azure) | AI Integration</strong>
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/alejandro-quintero-alzate-3079451a6/"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@alejandroquintero"/></a>
-    <a href="https://www.facebook.com/alejo.quinteroalzate"  target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@alejandroquintero" /></a>
-    <a href = "mailto:alejoq96@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@alejandroquintero" /></a>
-  </p>
-<br>
-<h2 align="center">Sobre mi 😎🤏</h2>
-<!--Intro start-->
+  <a href="https://www.linkedin.com/in/alejandro-quintero-alzate-3079451a6/">
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=58A6FF&size=20&lines=Backend+Developer;Construyendo+APIs+Escalables;Microservicios+y+Cloud;Integración+con+IA" />
+  </a>
+</p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/alejandro-quintero-alzate-3079451a6/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:alejoq96@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+</p>
+
+---
+
+<h2 align="center">🚀 Sobre mí</h2>
 
 <p align="left">
-🎓 ESTUDIANTE DE INGENIERIA DE SISTEMAS
 
-📝 Desarrollador de software muy proactivo.
+🎓 Estudiante de Ingeniería de Sistemas  
+💻 Backend Developer enfocado en **Java y Spring Boot**  
+⚙️ Experiencia construyendo **APIs REST, microservicios y sistemas escalables**  
+☁️ Trabajo con **AWS y Azure** para despliegues en la nube  
+🤖 Interesado en la integración de **IA en sistemas backend**  
 
-💻 Tengo unos años de experiencia trabajando con JAVA | SPRING BOOT | TYPESCRIPT
-
-🌎 Cambiando el mundo, un commit a la vez. 💻 #CodeForChange
+📈 Me enfoco en construir software **mantenible, escalable y orientado a resultados**  
 
 📫 Contacto: **alejoq96@gmail.com**
 
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="center">
- <h2>:star2: Front End</h2>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,react,angular,npm&perline=6" />
-</a>
-<br />
-<img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="60" />
-
-  <h2>:zap: Back End</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,aws,idea,eclipse,maven,mysql,postgres,firebase,sqlite&perline=6" />
-  </a>
-
-  <h2>:wrench: Tools</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,git,gitlab,github,ubuntu&perline=6" />
-  </a>
 </p>
-<br>
-<!-------------------------->
-<div id="proyectos">
-<br>
 
-<!------------------------->
+---
 
-<br/><br/>
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
+<h2 align="center">🧠 Enfoque Técnico</h2>
+
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="60%" align="center">
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=4lejandroquintero&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  
-</td>
+🔹 Desarrollo de APIs RESTful  
+🔹 Arquitectura de Microservicios  
+🔹 Arquitectura Hexagonal  
+🔹 Integración de IA en backend  
+🔹 CI/CD y despliegue en la nube  
 
-</tr>
-</table>
-<!--- stats (end) -->
+</p>
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/4lejandroquintero" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=4lejandroquintero&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
+---
 
-</p>       
-<br/>
-<br/>
-<br/>
-<br/>
+<h2 align="center">🛠️ Tecnologías</h2>
 
+<h3 align="center">⚡ Backend & Cloud</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,azure,docker,mysql,postgres&perline=7" />
+</p>
 
+<h3 align="center">🧩 Frontend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css&perline=6" />
+</p>
+
+<h3 align="center">🧰 Tools & DevOps</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux&perline=6" />
+</p>
+
+---
+
+<h2 align="center">🔥 Proyectos Destacados</h2>
+
+<p align="center">
+🚧 Aquí irán algunos de mis proyectos más relevantes  
+📌 APIs con Spring Boot  
+📌 Sistemas de gestión con arquitectura limpia  
+📌 Integraciones con IA  
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4lejandroquintero&theme=dark&show_icons=true&count_private=true" />
+</p>
+
+---
+
+<h2 align="center">🏆 Logros</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=4lejandroquintero&theme=radical&row=1&column=7&no-bg=true" />
+</p>
