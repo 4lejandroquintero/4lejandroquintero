@@ -31,7 +31,7 @@
 💻 Backend Developer enfocado en <strong>Java y Spring Boot</strong>  
 ⚙️ Experiencia construyendo <strong>APIs REST, microservicios y sistemas escalables</strong>  
 ☁️ Trabajo con <strong>AWS y Azure</strong>  
-🤖 Interesado en la integración de <strong>IA en sistemas backend</strong>  
+🤖 Integración de <strong>IA en sistemas backend</strong>  
 
 📈 Enfocado en software <strong>mantenible, escalable y orientado a resultados</strong>  
 
@@ -83,8 +83,6 @@
 
 <h2 align="center">🔥 Proyectos Destacados</h2>
 
----
-
 ### 🚀 Inventory Management System (Full Stack)
 
 Sistema de gestión de inventarios enfocado en rendimiento y escalabilidad.
@@ -96,7 +94,7 @@ Sistema de gestión de inventarios enfocado en rendimiento y escalabilidad.
 
 💡 JWT + optimización SQL  
 
-🔗 Próximamente (en desarrollo)
+👉 <a href="https://github.com/4lejandroquintero/InventarioValu" target="_blank"><strong>Ver repositorio</strong></a>
 
 ---
 
@@ -110,7 +108,7 @@ Arquitectura basada en microservicios.
 
 💡 Enfoque en escalabilidad y desacoplamiento  
 
-🔗 Próximamente (en desarrollo)
+👉 <a href="https://github.com/4lejandroquintero/Hexa-Platform" target="_blank"><strong>Ver repositorio</strong></a>
 
 ---
 
@@ -124,7 +122,7 @@ Automatización de procesos backend con IA.
 
 💡 IA aplicada a sistemas reales  
 
-🔗 Próximamente (en desarrollo)
+👉 <a href="https://github.com/4lejandroquintero/ai-backend-automation" target="_blank"><strong>Ver repositorio</strong></a>
 
 ---
 
