@@ -25,17 +25,17 @@
 
 <h2 align="center">🚀 Sobre mí</h2>
 
-<p align="left">
+<p>
 
 🎓 Estudiante de Ingeniería de Sistemas  
-💻 Backend Developer enfocado en **Java y Spring Boot**  
-⚙️ Experiencia construyendo **APIs REST, microservicios y sistemas escalables**  
-☁️ Trabajo con **AWS y Azure** para despliegues en la nube  
-🤖 Interesado en la integración de **IA en sistemas backend**  
+💻 Backend Developer enfocado en <strong>Java y Spring Boot</strong>  
+⚙️ Experiencia construyendo <strong>APIs REST, microservicios y sistemas escalables</strong>  
+☁️ Trabajo con <strong>AWS y Azure</strong>  
+🤖 Interesado en la integración de <strong>IA en sistemas backend</strong>  
 
-📈 Me enfoco en construir software **mantenible, escalable y orientado a resultados**  
+📈 Enfocado en software <strong>mantenible, escalable y orientado a resultados</strong>  
 
-📫 Contacto: **alejoq96@gmail.com**
+📫 Contacto: <strong>alejoq96@gmail.com</strong>
 
 </p>
 
@@ -45,11 +45,11 @@
 
 <p align="center">
 
-🔹 Desarrollo de APIs RESTful  
-🔹 Arquitectura de Microservicios  
+🔹 APIs RESTful  
+🔹 Microservicios  
 🔹 Arquitectura Hexagonal  
-🔹 Integración de IA en backend  
-🔹 CI/CD y despliegue en la nube  
+🔹 Integración de IA  
+🔹 CI/CD y Cloud  
 
 </p>
 
@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  OpenAI API · Prompt Engineering · AI Integration · Automation
+  OpenAI API · Prompt Engineering · AI Integration · Backend Automation · AI-assisted Development
 </p>
 
 <h3 align="center">🧰 Tools & DevOps</h3>
@@ -87,29 +87,28 @@
 
 ### 🚀 Inventory Management System (Full Stack)
 
-Sistema de gestión de inventarios desarrollado con arquitectura full stack, enfocado en rendimiento y escalabilidad.
+Sistema de gestión de inventarios enfocado en rendimiento y escalabilidad.
 
-🔹 Backend con Java & Spring Boot  
-🔹 Frontend con Angular  
-🔹 Base de datos MySQL  
-🔹 APIs RESTful bien estructuradas  
+🔹 Java & Spring Boot  
+🔹 Angular  
+🔹 MySQL  
+🔹 APIs REST  
 
-💡 Implementé autenticación con JWT y optimización de consultas SQL para mejorar el rendimiento.
+💡 JWT + optimización SQL  
 
 🔗 Próximamente (en desarrollo)
 
 ---
 
-### ⚡ Backend API - Microservices Architecture
+### ⚡ Backend API - Microservices
 
-Diseño y desarrollo de una arquitectura basada en microservicios utilizando Java y Spring Boot.
+Arquitectura basada en microservicios.
 
 🔹 Arquitectura hexagonal  
+🔹 Docker  
 🔹 Comunicación entre servicios  
-🔹 Docker para contenerización  
-🔹 Preparado para despliegue en cloud  
 
-💡 Enfoque en desacoplamiento, escalabilidad y mantenibilidad del sistema.
+💡 Enfoque en escalabilidad y desacoplamiento  
 
 🔗 Próximamente (en desarrollo)
 
@@ -117,13 +116,13 @@ Diseño y desarrollo de una arquitectura basada en microservicios utilizando Jav
 
 ### 🤖 AI Integration - Backend Automation
 
-Integración de inteligencia artificial en procesos backend para automatización y mejora de eficiencia.
+Automatización de procesos backend con IA.
 
-🔹 Uso de APIs de IA (OpenAI)  
-🔹 Automatización de tareas backend  
-🔹 Procesamiento de datos con Python  
+🔹 OpenAI API  
+🔹 Python  
+🔹 Procesamiento de datos  
 
-💡 Exploración de cómo la IA puede potenciar sistemas backend modernos.
+💡 IA aplicada a sistemas reales  
 
 🔗 Próximamente (en desarrollo)
 
@@ -138,9 +137,5 @@ Integración de inteligencia artificial en procesos backend para automatización
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lejandroquintero&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=4lejandroquintero&theme=tokyonight&row=1&column=6&no-bg=true&no-frame=true" />
 
 </p>
